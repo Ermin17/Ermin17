@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Always looking to tackle fun and challenging projects!
+⚡ Always looking to tackle fun and challenging projects!
 
-📫 How to reach me: Send me an email or message me on LinkedIn!
 
 ## Tech Stack
 ### Languages
