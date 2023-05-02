@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Always looking to tackle fun and challenging projects!
+
 📫 How to reach me: Send me an email at esljivo1996@gmail.com or message me on LinkedIn!
+
 ## Tech Stack
 # Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
