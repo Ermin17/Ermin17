@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Always looking to tackle fun and challenging projects!
 
-📫 How to reach me: Send me an email at esljivo1996@gmail.com or message me on LinkedIn!
+📫 How to reach me: Send me an email or message me on LinkedIn!
 
 ## Tech Stack
 # Languages
